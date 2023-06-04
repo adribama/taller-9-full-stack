@@ -22,3 +22,6 @@
 
 <h2>Punto 5</h2>
 <img src="./public/images/Punto-5.png" alt="css">
+
+<h2>Punto 6</h2>
+<img src="./public/images/punto-6.png" alt="css">
