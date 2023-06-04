@@ -1,0 +1,27 @@
+/*ESTILOS PUNTO 5*/
+
+p {
+    margin: 50px 330px;
+    line-height: 40px;
+   
+}
+
+.green__1 {
+    color: green;
+}
+
+.red__2 {
+    color: red;
+}
+
+.blue__3 {
+    color: blue;
+}
+
+.lines_ {
+    text-decoration-line: underline overline;
+}
+
+.big {
+    font-size: 35px; 
+}
