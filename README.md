@@ -24,4 +24,4 @@
 <img src="./public/images/Punto-5.png" alt="css">
 
 <h2>Punto 6</h2>
-<img src="./public/images/Punto-6.png" alt="css"
+<img src="./public/images/Punto-6.png" alt="css">
