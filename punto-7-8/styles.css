@@ -1,0 +1,30 @@
+/*ESTILOS PUNTOS 7-8*/
+
+div {
+    background: rgb(223, 190, 223);
+    display: flex;
+    margin: 50px 300px;
+    padding: 16px;
+}
+
+button {
+    
+    background-color:blue;
+    border: blue;
+    padding: 12px 25px;
+    font-size: 19px;   
+}
+
+nav ul {
+    display: flex;
+    gap: 35px;
+    list-style: none;
+    font-size: 19px;  
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-family: Jost;
+    font-weight: bold;
+}
