@@ -1,0 +1,28 @@
+/*ESTILOS PUNTO 9*/
+
+.style__table {
+
+    background:yellow;
+    border-collapse: collapse;
+    margin: 50px 280px;  
+}
+
+th {
+    color: red;
+    text-align:center;
+    border: 1px dotted #000000; 
+    }
+
+.L__big {
+    font-size: 22px;
+}
+
+td {
+    border: 1px dotted #000000; 
+}
+
+.borde__red {
+    border: 1px dotted #f00a0a; 
+    border-left: 1px dotted #000000;
+    border-right: 1px dotted #000000;
+}
